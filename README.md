@@ -9,3 +9,6 @@ https://colab.research.google.com/drive/1sDgoAhpCNvyFcQQPQEDdjgOI177vaZix#scroll
 Archivo modelo de interfaz entre postgres y python:
 https://github.com/fferrant/Python2/blob/master/carcasa.py
 
+Programa que utiliza herramientas de clusterización para clasificar e imprimir las imágenes del dataset MNIST:
+https://github.com/fferrant/Python2/blob/master/mnist_clustering.py
+
