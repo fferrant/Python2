@@ -31,3 +31,4 @@ Programa que aplica un % de reducción en la cantidad de colores de una imagen o
 https://github.com/fferrant/Python2/blob/master/reduc_colores.py
 
 Programa que realiza un análisis exploratorio de series de tiempo con datos ambientales:
+https://github.com/fferrant/Python2/blob/master/sensores2.py
