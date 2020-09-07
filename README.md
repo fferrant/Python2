@@ -21,3 +21,5 @@ https://github.com/fferrant/Python2/blob/master/felicidad.py
 Programa que limpia y analiza series temporales de datos obtenidos a partir de sensores:
 https://github.com/fferrant/Python2/blob/master/pump.py
 
+Programa que a partir de una clusterización con Kmeans transforma una imagen original en una imagen bicolor:
+https://github.com/fferrant/Python2/blob/master/dos_colores.py
