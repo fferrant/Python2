@@ -29,3 +29,5 @@ https://github.com/fferrant/Python2/blob/master/filtros_colores.py
 
 Programa que aplica un % de reducción en la cantidad de colores de una imagen original:
 https://github.com/fferrant/Python2/blob/master/reduc_colores.py
+
+Programa que realiza un análisis exploratorio de series de tiempo con datos ambientales:
