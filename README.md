@@ -23,3 +23,7 @@ https://github.com/fferrant/Python2/blob/master/pump.py
 
 Programa que a partir de una clusterización con Kmeans transforma una imagen original en una imagen bicolor:
 https://github.com/fferrant/Python2/blob/master/dos_colores.py
+
+Programa que trabaja con los canales RGB de un set de imágenes, apagando uno de ellos para cambiar la tonalidad de las mismas:
+https://github.com/fferrant/Python2/blob/master/filtros_colores.py
+
