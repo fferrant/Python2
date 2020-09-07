@@ -32,3 +32,6 @@ https://github.com/fferrant/Python2/blob/master/reduc_colores.py
 
 Programa que realiza un análisis exploratorio de series de tiempo con datos ambientales:
 https://github.com/fferrant/Python2/blob/master/sensores2.py
+
+Programa que intenta identificar cuando una persona cuyas ondas cerebrales están siendo medidas, realiza un pestañeo:
+https://github.com/fferrant/Python2/blob/master/pesta%C3%B1eos.py
