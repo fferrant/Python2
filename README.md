@@ -18,3 +18,4 @@ https://colab.research.google.com/drive/1sDgoAhpCNvyFcQQPQEDdjgOI177vaZix#scroll
 Programa que compara precisión y rendimiento de un árbol de decisión y un algoritmo de Random Forest, para realizar una clasificación:
 https://github.com/fferrant/Python2/blob/master/felicidad.py
 
+Programa que limpia y analiza series temporales de datos obtenidos a partir de sensores:
