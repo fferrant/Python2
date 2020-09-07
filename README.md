@@ -27,3 +27,5 @@ https://github.com/fferrant/Python2/blob/master/dos_colores.py
 Programa que trabaja con los canales RGB de un set de imágenes, apagando uno de ellos para cambiar la tonalidad de las mismas:
 https://github.com/fferrant/Python2/blob/master/filtros_colores.py
 
+Programa que aplica un % de reducción en la cantidad de colores de una imagen original:
+https://github.com/fferrant/Python2/blob/master/reduc_colores.py
