@@ -35,3 +35,6 @@ https://github.com/fferrant/Python2/blob/master/sensores2.py
 
 Programa que intenta identificar cuando una persona cuyas ondas cerebrales están siendo medidas, realiza un pestañeo:
 https://github.com/fferrant/Python2/blob/master/pesta%C3%B1eos.py
+
+Programa que realiza una clasificación a partir de una red neuronal con UNA capa oculta:
+https://github.com/fferrant/Python2/blob/master/felicidad2.py
