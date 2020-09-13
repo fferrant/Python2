@@ -38,3 +38,6 @@ https://github.com/fferrant/Python2/blob/master/pesta%C3%B1eos.py
 
 Programa que realiza una clasificación a partir de una red neuronal con UNA capa oculta:
 https://github.com/fferrant/Python2/blob/master/felicidad2.py
+
+Programa que arma clusters de 2 formas diferentes 1) de forma gráfica luego de reducir dimensiones con PCA. 2) De forma analítica con K-means. Al final del programa los agrupamientos por ambos métodos son comparados.
+https://github.com/fferrant/Python2/blob/master/felicidad3.py
