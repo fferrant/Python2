@@ -44,3 +44,6 @@ https://github.com/fferrant/Python2/blob/master/felicidad3.py
 
 Programa que realiza un preprocesamiento en el dataset estudiado antes de realizar regresiones con 4 modelos de ML diferentes: 1) Regresión Múltiple 2) Árbol de Decisión 3) Random Forest 4) Red Neuronal:
 https://github.com/fferrant/Python2/blob/master/cereales.py
+
+Programa que evaluá distintos algoritmos de ML para predecir que pasajeros del titanic sobrevivieron. Sobre el dataset original se realiza ingeniería de variables, pre procesamiento y una vez con el dataset transformado se tuneal los hiperparámetros de distintos algoritmos para llegar al mejor resultado:
+https://github.com/fferrant/Python2/blob/master/titanic.py
