@@ -47,3 +47,7 @@ https://github.com/fferrant/Python2/blob/master/cereales.py
 
 Programa que evaluá distintos algoritmos de ML para predecir que pasajeros del titanic sobrevivieron. Sobre el dataset original se realiza ingeniería de variables, pre procesamiento y una vez con el dataset transformado se tuneal los hiperparámetros de distintos algoritmos para llegar al mejor resultado:
 https://github.com/fferrant/Python2/blob/master/titanic.py
+
+
+Modelo de regresión múltiple para predecir el precio del petróleo:
+https://github.com/fferrant/Python2/blob/master/petroleo.py
