@@ -51,3 +51,6 @@ https://github.com/fferrant/Python2/blob/master/titanic.py
 
 Modelo de regresión múltiple para predecir el precio del petróleo:
 https://github.com/fferrant/Python2/blob/master/petroleo.py
+
+Programa que combina 2 modelos diferentes de ML (Random Forest y Red Neuronal), con el preprocesamiento de un dataset y las herramientas de cross-validation y Grid Search, para realizar una regresión:
+https://github.com/fferrant/Python2/blob/master/employees.py
