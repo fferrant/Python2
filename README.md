@@ -54,3 +54,6 @@ https://github.com/fferrant/Python2/blob/master/petroleo.py
 
 Programa que combina 2 modelos diferentes de ML (Random Forest y Red Neuronal), con el preprocesamiento de un dataset y las herramientas de cross-validation y Grid Search, para realizar una regresión:
 https://github.com/fferrant/Python2/blob/master/employees.py
+
+Programa que utiliza 4 modelos diferentes de ML para predecir el siguiente valor de una serie temporal. Las variables son los 12 valores anteriores a cada punto de la serie:
+https://github.com/fferrant/Python2/blob/master/amazon.py
